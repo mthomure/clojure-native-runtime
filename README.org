@@ -1,0 +1,9 @@
+#+TITLE: clojure-native-runtime
+
+Experiments with JNR and Clojure
+
+* See also
+
+- https://github.com/jnr/jnr-ffi-examples
+- https://github.com/jnr/jnr-ffi
+- https://github.com/SerCeMan/jnr-fuse
